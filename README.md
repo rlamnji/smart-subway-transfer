@@ -1,16 +1,54 @@
-# flutter_application_1
+# 🚇 Smart Subway Transfer (스마트 환승철)
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📆 Project Info / プロジェクト情報
 
-This project is a starting point for a Flutter application.
+- **Project period:** September 2024 – December 2024  
+- **Refactored:** March 2025  
+- **Team project** for “Project 1” course at Myongji University (3rd year)  
+- 明知大学3年次の授業「プロジェクト1」にて開発したチームプロジェクトです。
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack / 技術スタック
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend**: 
+- **Backend**: 
+- **Database**: Firebase 
+
+---
+
+|직책|이름|기술스택|
+|------|---|---|
+|팀장|이주영|C, C++, java, Python, Flutter|
+|서기|곽나영|C, C++, java, Python, Flutter|
+|팀원|김민지|C, C++, java, Python, Flutter|
+|팀원|조온유|C, C++, java, Python, Flutter|
+|팀원|황정욱|C, C++, java, Python, Flutter|
+
+---
+
+## ✨ Key Features / 主な機能
+
+- 🔍 
+- ⏱️  
+- 📍
+- 🗺️ 
+
+---
+
+## 📸 Screenshots / スクリーンショット
+
+
+---
+
+## 📁 Folder Structure / フォルダ構成
+
+```bash
+src/
+├── components/
+├── pages/
+├── hooks/
+├── api/
+├── utils/
