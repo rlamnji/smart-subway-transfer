@@ -38,6 +38,14 @@
 
 ## 📸 Screenshots
 - 주요 화면은 다음과 같다.
+### 1. 메인화면
+- <img width="908" height="920" alt="Image" src="https://github.com/user-attachments/assets/d63b66ce-e167-4633-b048-3945b9aee482" />
+### 2.
+<img width="1052" height="720" alt="Image" src="https://github.com/user-attachments/assets/ccd5a207-e3f8-46fc-aa76-de17fed95386" />
+### 3.
+<img width="700" height="714" alt="Image" src="https://github.com/user-attachments/assets/53a470b3-9a28-4cc4-b399-073709ea2b02" />
+### 4.
+<img width="940" height="620" alt="Image" src="https://github.com/user-attachments/assets/886dca39-a3b6-48ed-be83-4dcea3f8e6c7" />
   
 
 ---
